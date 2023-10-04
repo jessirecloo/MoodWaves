@@ -8,11 +8,13 @@ string pass;
 
 cout << "Enter Spotify Log in" << endl << endl; 
 
-cout << "Username: " ;
+cout << "Username: ";
 cin >> user;
 cout << endl << endl << "Password: ";
 cin >> pass;
 cout << endl;
+
+
 
 
 
