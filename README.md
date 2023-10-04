@@ -1,10 +1,18 @@
 # MoodWaves
 #include <iostream>
+#include <string>
 using namespace std; 
 
-cout << " Spotify Log in" << endl; 
+string user;
+string pass;
 
-cout << what is 
+cout << "Enter Spotify Log in" << endl << endl; 
+
+cout << "Username: " ;
+cin >> user;
+cout << endl << endl << "Password: ";
+cin >> pass;
+cout << endl;
 
 
 
